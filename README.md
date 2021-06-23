@@ -1,4 +1,4 @@
-### Hi there 👋
+### Merhaba 👋
 
 <!--
 **honeybadger4768/honeybadger4768** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
