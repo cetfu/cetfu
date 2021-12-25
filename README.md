@@ -5,7 +5,6 @@
 <div align="center">
 
 You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/honeybadger4768/honeybadger4768/issues/new"><b>here</b></a><br>
 or <a href="mailto:furkancetinkaya0746@gmail.com"><b>email</b></a> me
 
