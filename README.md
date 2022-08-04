@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hello! I Honey, for detailed information: <a href="https://furkancetinkaya.me" target="_blank">Click ME</a></h2>
+<h2> Hello! I Honey, for detailed information: <a href="https://furkancetinkaya.is-a.dev" target="_blank">Click ME</a></h2>
 </div>
 
 <div align="center">
