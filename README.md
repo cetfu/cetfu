@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=honeybadger4768" alt="honeybadger4768" /></a> </p>
 
-- 🌱 I’m currently learning **Unity**
-
 - 💬 Ask me about **react-native**
 
 <h3 align="left">Connect with me:</h3>
