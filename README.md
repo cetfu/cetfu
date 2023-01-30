@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan Cetinkaya</h1>
-<h3 align="center">I'm full stack mobile developer from Turkey</h3>
+<h3 align="center">I'm Full Stack Web/Mobile developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=honeybadger4768&label=Profile%20views&color=813d9c&style=flat" alt="honeybadger4768" /> </p>
 
